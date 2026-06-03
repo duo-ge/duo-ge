@@ -1,0 +1,51 @@
+<!-- https://github.com/DenverCoder1/readme-typing-svg/ -->
+<svg xmlns='http://www.w3.org/2000/svg'
+    xmlns:xlink='http://www.w3.org/1999/xlink'
+    viewBox='0 0 720 120'
+    style='background-color: #00000000;'
+    width='720px' height='120px'>
+
+    
+                <path id='path0'>
+                            <!-- Single line -->
+                                <animate id='d0' attributeName='d' begin='0s;d2.end'
+                    dur='2000ms' fill='remove'
+                    values='m0,60 h0 ; m0,60 h720 ; m0,60 h720 ; m0,60 h0' keyTimes='0;0.4;0.9;1' />
+                    </path>
+    <text font-family='"LXGW WenKai", monospace' fill='#0969DA' font-size='60'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path0'>
+            点个 Star，支持一下。
+        </textPath>
+    </text>
+        <path id='path1'>
+                            <!-- Single line -->
+                                <animate id='d1' attributeName='d' begin='d0.end'
+                    dur='2000ms' fill='remove'
+                    values='m0,60 h0 ; m0,60 h720 ; m0,60 h720 ; m0,60 h0' keyTimes='0;0.4;0.9;1' />
+                    </path>
+    <text font-family='"LXGW WenKai", monospace' fill='#0969DA' font-size='60'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path1'>
+            👉 ⭐
+        </textPath>
+    </text>
+        <path id='path2'>
+                            <!-- Single line -->
+                                <animate id='d2' attributeName='d' begin='d1.end'
+                    dur='2000ms' fill='remove'
+                    values='m0,60 h0 ; m0,60 h720 ; m0,60 h720 ; m0,60 h0' keyTimes='0;0.4;0.9;1' />
+                    </path>
+    <text font-family='"LXGW WenKai", monospace' fill='#0969DA' font-size='60'
+        dominant-baseline='middle'
+        x='50%' text-anchor='middle'
+        letter-spacing='normal'>
+        <textPath xlink:href='#path2'>
+            🌟
+        </textPath>
+    </text>
+</svg>
